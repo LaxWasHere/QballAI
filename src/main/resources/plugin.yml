@@ -1,0 +1,4 @@
+name: QballAI
+description: Sets all mobs to qball level intelligence.
+version: 1.0
+main: net.poweredbyscience.qballai.QballAI
